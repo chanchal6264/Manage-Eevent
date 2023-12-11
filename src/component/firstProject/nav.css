@@ -1,0 +1,56 @@
+.navbal {
+    display: flex;
+    /* float: left; */
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(3, 3, 85);
+    color: white;
+    /* margin: 10px 0; */
+
+}
+
+.navbal .header ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.navbal .header ul li {
+
+    display: inline;
+    color: burlywood;
+    padding: 10px;
+    font-size: 1.1em;
+}
+
+.navbal .logo {
+    float: left;
+    width: 20%;
+    padding-left: 70px;
+
+}
+
+.navbal .header {
+    float: left;
+    width: 60%;
+}
+
+.navbal .signin button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding-right: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    cursor: pointer;
+    color: blue;
+}
+
+.navbal .signin button img {
+    color: red;
+}

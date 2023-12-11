@@ -1,0 +1,31 @@
+.heading{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+iframe{
+    height: 500px;
+    width: 100%
+}
+.map-pera{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+.map-pera .map-pera-1{
+    color: black;
+    font-size: 2.5em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.map-pera button{
+    cursor: pointer;
+    color: orange;
+    background-color: white;
+    padding: 10px 40px;
+    border: 0px;
+    font-weight: bold;
+    border-radius: 30px;
+}

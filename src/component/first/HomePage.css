@@ -1,0 +1,29 @@
+body {
+    background-color: brown;
+    color: white;
+}
+
+.content {
+    text-align: center;
+    padding-top: 200px;
+}
+
+h1 {
+    font-size: 4em;
+    color: white;
+}
+
+p {
+    font-size: 1.2em;
+    margin-top: -20px;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    font-size: 1.5em;
+    padding: 5px 20px;
+    border: 0;
+}

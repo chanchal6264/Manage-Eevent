@@ -1,0 +1,550 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.anita {
+    display: flex;
+    justify-content: space-around;
+}
+
+.anita h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.anita p {
+    padding-top: 5px;
+    color: rgb(134, 196, 229);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.h{}
+.Home-sec{
+    
+}
+.Home-sec .Home-sec-1{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding-bottom: 30px;
+}
+.Home-sec .Home-sec-1 .Home-sec-1-pera1{
+    width: 20%;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home-sec .Home-sec-1 .Home-sec-1-pera2{
+    width: 80%;
+    color: rgb(137, 171, 233);
+    padding-left: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.Home-sec .Home-sec-2{
+    display: flex;
+   padding-top: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+.Home-sec .Home-sec-2 .Home-sec-2-pera1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(165, 97, 228);
+    justify-content: space-between;
+
+}
+.Home-sec .Home-sec-2 .Home-sec-2-pera2{
+    color: rgb(224, 83, 83);
+    padding-right: 50px;
+    font-size: 1.4em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Home-sec .Home-sec-3{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.Home-sec .Home-sec-3 .Home-sec-3-pera1 .Home-sec-3-pera1-1{
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home-sec .Home-sec-3 .Home-sec-3-pera1 .Home-sec-3-pera1-2{
+    
+    color: rgb(137, 171, 233);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Home-sec .Home-sec-3 .Home-sec-3-pera2 .Home-sec-3-pera2-1{
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home-sec .Home-sec-3 .Home-sec-3-pera2 .Home-sec-3-pera2-2{
+    color: rgb(137, 171, 233);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Home-sec .Home-sec-3 .Home-sec-3-pera3 .Home-sec-3-pera3-1{
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home-sec .Home-sec-3 .Home-sec-3-pera3 .Home-sec-3-pera3-2{
+    color: rgb(137, 171, 233);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.j{}
+
+.first-home {
+
+    padding: 100px;
+    background-size: cover;
+}
+
+.first-home .f-home-heading {
+    padding-top: 100px;
+    color: palevioletred;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.first-home .f-home-first_pera {
+    color: rgb(202, 191, 191);
+    font-size: 1.1em;
+    padding-top: 30px;
+}
+
+.first-home .f-home-second_pera {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: rgb(202, 191, 191);
+    font-size: 1.1em;
+}
+
+.first-home .f-input input {
+    padding: 20px;
+    padding-right: 100px;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    background-color: rgb(14, 36, 53);
+    font-size: 1.1em;
+}
+
+.first-home .f-input button {
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    cursor: pointer;
+    padding-top: 21px;
+    padding-bottom: 2px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    background-color: orangered;
+    font-size: 1em;
+}
+
+.first-home .f-image {
+    display: flex;
+    padding-top: 40px;
+}
+
+.first-home .f-image p {
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 0.8em;
+}
+
+.first-home-second-page {
+    background-color: rgb(12, 6, 45);
+}
+
+.first-home-second-page .first-img {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.first-home-second-page .first-img img {
+    padding: 30px;
+
+}
+
+.first-home-second-page .first-home-second-main {
+    background-color: darkblue;
+    color: white;
+}
+
+.first-home-second-page .first-home-second-main .f-content1 {
+    display: flex;
+    width: 100%;
+    padding-bottom: 30px;
+
+}
+
+.first-home-second-page .first-home-second-main .f-content1 .f-content1-pera1 {
+    float: left;
+    width: 20%;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.first-home-second-page .first-home-second-main .f-content2 {
+    float: left;
+    width: 80%;
+    padding-left: 80px;
+    color: rgb(129, 147, 189);
+
+}
+
+.first-home-second-page .first-home-second-main .f-content2 {
+    display: flex;
+    color: pink;
+    width: 100%;
+    float: left;
+
+
+}
+
+.first-home-second-page .first-home-second-main .f-content2 .f-content2-pera1 {
+    padding-right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.first-home-second-page .first-home-second-main .f-content2 .f-content2-pera2 {
+    padding-right: 60px;
+
+}
+
+.first-home-second-page .first-home-second-main .f-content3 {
+    background-color: burlywood;
+}
+
+.first-home-third-page {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(12, 6, 45);
+    color: white;
+}
+
+.first-home-third-page .first-home-third-page-para1 h2 {
+    color: rgb(208, 87, 208);
+    padding-top: 100px;
+
+}
+
+.first-home-third-page .first-home-third-page-para1 p {
+    color: rgb(247, 81, 9);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.first-home-third-page .first-home-third-page-para2 {
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.first-home-third-page .first-home-third-page-para2 .first-home-third-page-para2-sub_para1 p {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page-para2 .first-home-third-page-para2-sub_para2 p {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page-para2 .first-home-third-page-para2-sub_para3 p {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page-para2 .first-home-third-page-para2-sub_para4 p {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page .first-home-third-page-para3 {
+    padding-top: 100px;
+    color: rgb(43, 161, 229);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.first-home-third-page .first-home-third-page .first-home-third-page-para3 .first-home-third-page-para3-sub-para1 {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page .first-home-third-page-para3 .first-home-third-page-para3-sub-para2 {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page .first-home-third-page-para3 .first-home-third-page-para3-sub-para3 {
+    padding: 15px;
+}
+
+.first-home-third-page .first-home-third-page .first-home-third-page-para3 .first-home-third-page-para3-sub-para4 {
+    padding: 15px;
+}
+
+.first-home-last {
+    background-color: rgb(12, 6, 45);
+    padding: 170px;
+    padding-top: 80px;
+    color: white;
+}
+
+.first-home-last .first-home-last_sub {
+    margin-left: 90px;
+    width: 70%;
+    border-radius: 10px;
+    text-align: justify;
+    background-color: rgb(172, 87, 187);
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+.first-home-last .first-home-last_sub p {
+    padding: 5px;
+    padding-left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.5;
+
+    color: whitesmoke;
+}
+
+.first-home-last .first-home-last_sub .first-home-third-page-last_sub {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.first-home-last .first-home-last_sub .first-home-third-page-last_sub p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 1.3em;
+    padding-right: 200px;
+}
+
+.first-home-last .first-home-last_sub .first-home-third-page-last_sub button {
+    margin-right: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 0.9em;
+   padding-left: 2px;
+   padding-right: 2.6px;
+
+}
+
+
+/*  nav css */
+
+
+
+.homepage {}
+
+
+.homepage {
+    background-size: cover;
+    height: 40vh;
+    margin-top: -70px;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+
+}
+
+.homepage .content {
+    padding-top: 50px;
+}
+
+.homepage .content p {
+    letter-spacing: 10px;
+}
+
+.homepage .content .writen {
+    display: flex;
+    justify-content: center;
+    font-size: 3EM;
+
+}
+
+.homepage .content .writen .para1 {
+    color: rgb(255, 200, 0);
+    font-weight: bold;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.homepage .content .writen .para2 {
+
+    font-weight: bold;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.fillbox {}
+
+.fillbox .icon {
+    color: rgb(128, 6, 242);
+    font-size: 3em;
+}
+
+.fillbox {
+    text-align: center;
+
+}
+
+.fillbox h2 {
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fillbox input {
+    padding: 15px;
+    padding-right: 150px;
+    margin-top: 20px;
+    font-size: 1.2em;
+    border-color: gray;
+
+}
+.fillbox .gen{
+    margin-right: 200px;
+    color: rgb(101, 100, 100);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fillbox .check{
+    font-size: 4em;
+}
+.fillbox .remember{
+   color: rgb(34, 32, 32);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 280px;
+
+}
+
+.fillbox button {
+    cursor: pointer;
+    margin: 20px;
+    padding: 10px 185px;
+    border: none;
+    background-color: rgb(17, 132, 240);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fillbox .end-p{
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+}
+.fillbox .end-p1{
+    margin-right: 160px;
+    color: rgb(48, 47, 47);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fillbox .end-p2{
+    color: rgb(101, 100, 100);
+    font-size: 0.9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.main-footer {}
+
+.main-footer {
+    background-color: rgb(2, 2, 41);
+    color: white;
+    text-align: center;
+
+}
+
+.main-footer h1 {
+    color: rgb(221, 20, 137);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4em;
+}
+
+.main-footer button {
+    cursor: pointer;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(2, 2, 41);
+    border-color: white;
+    color: white;
+    font-size: 1.1em;
+}
+
+.main-footer .footer .sub-footer {
+    display: flex;
+    text-align: justify;
+    justify-content: space-evenly;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main-footer .footer .sub-footer .link ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+.main-footer .footer .sub-footer .link ul li{
+    padding: 5px;
+}
+.main-footer .footer .sub-footer .link p{
+    padding: 9px;
+}
+.main-footer .footer .sub-footer .link ul {
+    text-decoration: none;
+    overflow: hidden;
+    
+}
+
+.main-footer .footer .sub-footer .cmpny p{
+    padding: 9px;
+}
+.cmpny ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+.main-footer .footer .sub-footer .link .cmpny ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+.main-footer .footer .sub-footer .cmpny ul li{
+    padding: 5px;
+}
+.main-footer .footer .sub-footer .cmpny ul {
+    text-decoration: none;
+    overflow: hidden;
+    
+}
+
+.main-footer .footer .footer-down {
+    padding: 50px;
+    text-align: left;
+    padding-left: 275px;
+
+
+}
+
+.footer-last-para {
+    padding: 70px;
+    padding-bottom: 90px;
+
+}
+
+.cmpny ul {
+    text-decoration: none;
+
+}

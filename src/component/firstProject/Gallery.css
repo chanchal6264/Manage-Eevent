@@ -1,0 +1,104 @@
+.about-content{
+    text-align: center;
+    padding: 100px;
+}
+
+.about-content p {
+    color: white;
+    letter-spacing: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about-content .about-writen{
+    display: flex;
+    justify-content: center;
+    font-size: 3EM;
+
+}
+.about-content .about-writen .about-para1{
+    color: rgb(255, 200, 0);
+    font-weight: bold;
+    padding: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.about-content .about-writen .about-para2{
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about-content .about-2p{
+    display: flex;
+    padding-left: 600px;
+}
+.about-2p-pera{
+    text-align: center;
+    
+}
+
+.g-para{
+    padding: 20px;
+    text-align: center;
+    color: rgb(54, 51, 51);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 2.7em;
+    font-weight: bold;
+}
+
+.gallery {
+    background-color: aquamarine;
+}
+.gallery .gallery-1 {
+    display: flex;
+    justify-content: center;
+}
+.gallery .gallery-1 .gallery-1-img1 {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+.gallery .gallery-1 .gallery-1-img2 {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+
+.gallery .gallery-2 {
+    display: flex;
+    justify-content: center;
+}
+.gallery .gallery-2 .gallery-2-1-img3 {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+.gallery .gallery-2 .gallery-2-2-img4 {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+.gallery .gallery-3 {
+    display: flex;
+    justify-content: center;
+}
+.gallery .gallery-3 .gallery-3-1-img5 {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+.gallery .gallery-3 .gallery-3-2-img6 {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+.gallery .gallery-4 {
+    display: flex;
+    justify-content: center;
+}
+.gallery .gallery-4 .gallery-4-1-img7{
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
+.gallery .gallery-4 .gallery-4-2-img8{
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+}
